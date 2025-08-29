@@ -20,7 +20,8 @@ It covers multiple aspects of the flying experience:
 👉 [View on Tableau Public](https://public.tableau.com/shared/25XS5JHSS?:display_count=n&:origin=viz_share_link)
 
 ## 🖼️ Dashboard Preview
-![Global Map View](Tableu British Airways.jpg)
+![Tableu British Airways](https://github.com/user-attachments/assets/fe855f71-94ba-40db-bd56-53e1ef998548)
+
 
 
 ## ⚙️ Tools Used
